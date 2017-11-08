@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+    <string name="error_title">Oops..Sorry!</string>
+    <string name="error_message">\"There was an error. Try Again\"</string>
+    <string name="error_okay_button_text">Okay</string>
+    <string name="network_unavailable_message">\"Network is unavailable\"</string>
+</resources>
